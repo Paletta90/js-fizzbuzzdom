@@ -24,8 +24,10 @@ body{
 .box{
     width: 100px;
     height: 100px;
-    background-color: white;
 }
 
+.sevenColumn{
+    flex-basis: calc(100% / 7);
+}
 
 
