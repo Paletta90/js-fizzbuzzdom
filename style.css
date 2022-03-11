@@ -9,6 +9,18 @@
 body{
     background-color: var(--bg-darkblue);
 }
+#fizzBuzz{
+    background-color: var(--bg-reddishpurple);
+}
+#fizz{
+    background-color: var(--bg-aquagreen);
+}
+#buzz{
+    background-color: var(--bg-yellow);
+}
+#n{
+    background-color: var(--bg-blue);
+}
 .box{
     width: 100px;
     height: 100px;
