@@ -1,0 +1,19 @@
+:root{
+    --bg-darkblue: #083b4c;
+    --bg-aquagreen: #0bd6a1;
+    --bg-yellow: #ffd166;
+    --bg-blue: #1389b2;
+    --bg-reddishpurple: #f0466f;
+}
+
+body{
+    background-color: var(--bg-darkblue);
+}
+.prova{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+
+
