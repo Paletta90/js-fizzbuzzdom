@@ -22,12 +22,15 @@ body{
     background-color: var(--bg-blue);
 }
 .box{
-    width: 100px;
-    height: 100px;
+    /* width: 100px;
+    height: 100px; */
+    width: 100%;
+    aspect-ratio: 1;
 }
 
 .sevenColumn{
-    flex-basis: calc(100% / 7);
+    flex-basis: calc((100% / 7) - 20px);
+    margin: 0 10px;
 }
 
 
